@@ -2,7 +2,7 @@
 
 **`Estudante de ADS | AWS re/Start | Cloud Computing & IA`**
 
-Me chamo Valeria, sou estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar e estou em transição para a área de tecnologia, com foco em desenvolvimento e computação em nuvem. Concluiu o programa AWS re/Start pela Escola da Nuvem, onde adquiri uma sólida formação em serviços da AWS, fundamentos de redes, segurança e boas práticas de programação em Python.
+Me chamo Valeria, sou estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar e estou em transição para a área de tecnologia, com foco em desenvolvimento e computação em nuvem. Concluí o programa AWS re/Start pela Escola da Nuvem, onde adquiri uma sólida formação em serviços da AWS, fundamentos de redes, segurança e boas práticas de programação em Python.
 
 Sou apaixonada por inovação e ambientes escaláveis. Meu principal interesse está em Inteligência Artificial e Dados aplicados à nuvem, buscando atuar de forma integrada em DevOps, Segurança e Arquitetura Cloud. Atualmente, busco minha primeira oportunidade profissional para aplicar meus aprendizados e crescer como especialista em ambientes inteligentes.
 
